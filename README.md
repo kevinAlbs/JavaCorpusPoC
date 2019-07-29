@@ -10,5 +10,3 @@ I've been running with IntelliJ and setting the following VM variables:
 ```
 -Djna.library.path="/Users/kevinalbertson/code/libmongocrypt/cmake-build" -enableassertions
 ```
-
-Note, passing the test requires libmongocrypt on master.
